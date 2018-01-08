@@ -2,3 +2,5 @@ file F
 User 2
 User 1 
 User 1 : Chinh sua lan 1 - ***************
+
+User 2 : Chinh sua lan 1
