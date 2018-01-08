@@ -1,6 +1,9 @@
-file F
+﻿file F
 User 2
 User 1 
 User 1 : Chinh sua lan 1 - ***************
 
 User 1 : Chinh sua lan 2 - +++++++++++++++
+
+file F
+File F User 1 chỉnh sửa
